@@ -8,6 +8,7 @@ This project is a JSON conversion tool built using Node.js. It takes JSON API da
 - [Usage](#usage)
 - [Running the Application](#running-the-application)
 - [Running Tests](#running-tests)
+- [Running request in Postman](#running-request-in-postman)
 - [API Response Results](#api-response-results)
 - [Test Cases Results](#test-cases-results)
 
@@ -45,6 +46,15 @@ To run the test cases, use the following command:
 npm test
 ```
 
+## Running request in Postman
+
+To run the request in Postman
+Send a POST request to the following URL:
+
+```bash
+http://localhost:3000/convert
+```
+![Postman Screenshot](https://i.ibb.co/VH3D2VD/image.png)
 
 ## API Response Results
 
