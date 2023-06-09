@@ -16,6 +16,10 @@ This project is a JSON conversion tool built using Node.js. It takes JSON API da
 
 To install the required dependencies, run the following command in your terminal:
 
+```bash
+npm install
+```
+
 ## Usage
 
 ### Running the Application
