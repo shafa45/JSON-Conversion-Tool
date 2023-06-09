@@ -26,7 +26,7 @@ To run the application, use the following command:
 node index.js [--mappings <filename> --rules <filename> --run]
 ```
 
-The application takes the following command line arguments:
+The application takes the following optional arguments:
 
 - `--mappings <filename>`: The filename  containing the mappings to be used by the application. If this argument is not provided, the application will use the default mappings which is present in the project directory.
 - `--rules <filename>`: The filename containing the rules to be used by the application. If this argument is not provided, the application will use the default rules which is present in the project directory.
